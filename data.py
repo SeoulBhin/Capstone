@@ -61,7 +61,10 @@ fire_df = preprocess_fire_data(file_path)
 
 # 결과 확인
 print("데이터 전처리 완료. DataFrame 정보:")
+<<<<<<< HEAD
 
+=======
+>>>>>>> 9fc0bdc75dfb2493a98b342366f85439e19a7455
 print(fire_df.info())
 print("\n샘플 데이터:")
 print(fire_df.head())
